@@ -3,4 +3,4 @@
  
 
 
-  [1]:https://github.com/liansanyue/write
+  [1]:http://liansanyue.github.io/write
